@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Score Decision-Making Runs: WebShop Score and Success Rate, ALFWorld Trials of ReAct Against Act](https://www.deep-ml.com/problems/2694) | easy | 2026-11-26 | [solution](problems/2694-score-decision-making-runs-webshop-score-and-success-rate-alfworld-trials-of-react-against-act) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-11-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-26 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-11-26 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
